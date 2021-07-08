@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Danupol</h1>
-- 📫 How to reach me **hi@lagseen.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
